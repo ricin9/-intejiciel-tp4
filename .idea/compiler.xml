@@ -7,12 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ms-formation" />
+        <module name="ms-produits" />
         <module name="ms-config2" />
-        <module name="ms-config" />
         <module name="ms-registry" />
         <module name="ms-gateway3" />
         <module name="ms-scholarity2" />
+        <module name="ms-formation" />
+        <module name="ms-config" />
+        <module name="ms-panier" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,6 +28,8 @@
       <module name="ms-config2" options="-parameters" />
       <module name="ms-formation" options="-parameters" />
       <module name="ms-gateway3" options="-parameters" />
+      <module name="ms-panier" options="-parameters" />
+      <module name="ms-produits" options="-parameters" />
       <module name="ms-registry" options="-parameters" />
       <module name="ms-scholarity" options="-parameters" />
       <module name="ms-scholarity2" options="-parameters" />

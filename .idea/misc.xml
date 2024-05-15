@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/ms-scholarity2/pom.xml" />
         <option value="$PROJECT_DIR$/ms-config/pom.xml" />
         <option value="$PROJECT_DIR$/ms-config2/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-produits/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-panier/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

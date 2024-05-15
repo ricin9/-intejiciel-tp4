@@ -21,14 +21,14 @@ spring:
       routes:
         - id: route1
           predicates:
-            - Path=/service-formation/**
+            - Path=/sc/**
           filters:
-            - RewritePath=/service-formation/(?<s>.*), /${s}
-          uri: lb://ms-formation
+            - RewritePath=/sc/(?<s>.*), /${s}
+          uri: lb://ms-panier
 
         - id: route2
           predicates:
-            - Path=/service-scholarity/**
+            - Path=/sp/**
           filters:
-            - RewritePath=/service-scholarity/(?<s>.*), /${s}
-          uri: lb://ms-scholarity
+            - RewritePath=/sp/(?<s>.*), /${s}
+          uri: lb://ms-produits
