@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9db53d65-246c-4284-967d-188069e525e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config/src/main/java/com/ricin/msconfig/MsConfigApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config/src/test/java/com/ricin/msconfig/MsConfigApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config2/src/main/java/com/ricin/msconfig2/MsConfig2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-config2/src/test/java/com/ricin/msconfig2/MsConfig2ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-formation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-formation/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-formation/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-formation/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-formation/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-formation/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-formation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-formation/src/main/java/com/ricin/msformation/MsFormationApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-formation/src/main/java/com/ricin/msformation/entities/Formation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-formation/src/main/java/com/ricin/msformation/repos/FormationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-formation/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-formation/src/test/java/com/ricin/msformation/MsFormationApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-gateway3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-gateway3/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-gateway3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-gateway3/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-gateway3/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-gateway3/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-gateway3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-gateway3/src/main/java/com/ricin/msgateway3/MsGateway3Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-gateway3/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-gateway3/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-gateway3/src/test/java/com/ricin/msgateway3/MsGateway3ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-registry/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-registry/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-registry/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-registry/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-registry/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-registry/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-registry/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-registry/src/main/java/com/ricin/msregistry/MsRegistryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-registry/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-registry/src/test/java/com/ricin/msregistry/MsRegistryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/src/main/java/com/ricin/msscholarity2/MsScholarity2Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/src/main/java/com/ricin/msscholarity2/api/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/src/main/java/com/ricin/msscholarity2/entities/Etablissement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/src/main/java/com/ricin/msscholarity2/entities/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/src/main/java/com/ricin/msscholarity2/entities/Formation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/src/main/java/com/ricin/msscholarity2/entities/FormationProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/src/main/java/com/ricin/msscholarity2/repos/EtablissementRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/src/main/java/com/ricin/msscholarity2/repos/EtudiantRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ms-scholarity2/src/test/java/com/ricin/msscholarity2/MsScholarity2ApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dUNRNcNxjsFEEuDODQENPYRmZL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Maven.ms-formation [install].executor": "Run",
+    "Maven.ms-gateway3 [install].executor": "Run",
+    "Maven.ms-scholarity2 [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.MsConfig2Application.executor": "Run",
+    "Spring Boot.MsFormationApplication.executor": "Run",
+    "Spring Boot.MsGateway2Application.executor": "Run",
+    "Spring Boot.MsGateway3Application.executor": "Run",
+    "Spring Boot.MsRegistryApplication.executor": "Run",
+    "Spring Boot.MsScholarity2Application.executor": "Run",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ricin/code/tp/interj/tp4/ms-gateway3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ms-gateway3" />
+      <recent name="$PROJECT_DIR$/ms-scholarity2" />
+      <recent name="$PROJECT_DIR$/ms-formation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MsFormationApplication">
+    <configuration name="MsConfig2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ms-config2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ricin.msconfig2.MsConfig2Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ricin.msconfig2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsFormationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ms-formation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ricin.msformation.MsFormationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsGateway3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ms-gateway3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ricin.msgateway3.MsGateway3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ricin.msregistry.MsRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsScholarity2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ms-scholarity2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ricin.msscholarity2.MsScholarity2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MsConfig2Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-corretto-21.0.2-4caba194b151-fd297b8c" />
+        <option value="jdk-22-openjdk-22-4caba194b151-6fbd92ee" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9db53d65-246c-4284-967d-188069e525e3" name="Changes" comment="" />
+      <created>1710058688161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710058688161</updated>
+      <workItem from="1710058689198" duration="2991000" />
+      <workItem from="1710061917905" duration="147000" />
+      <workItem from="1710062083453" duration="195000" />
+      <workItem from="1710062282387" duration="1351000" />
+      <workItem from="1710063659045" duration="4225000" />
+      <workItem from="1713689363882" duration="41000" />
+      <workItem from="1713689461089" duration="5683000" />
+      <workItem from="1714292984237" duration="2262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
